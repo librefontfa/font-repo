@@ -13,5 +13,6 @@
 - میخک
 - وزیرمتن
 
-# CDN 
+## مخازن CDN
 jsdelivr-cdn.librefont.ir
+parspack-cdn.librefont.ir
